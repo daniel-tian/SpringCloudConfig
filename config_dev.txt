@@ -1,2 +1,0 @@
-cf2 = cf_value
-foo2 = foo_value
